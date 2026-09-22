@@ -1,4 +1,4 @@
-# Estudos-Notebooklm
+# Estudos_notebooklm-Metodo-Benjamim-Graham
 Criação de conteúdo com uso do notebooklm
 
 Objetivo: 
@@ -144,6 +144,6 @@ Ações de Crescimento (Growth Stocks)	Ações de empresas cujos lucros crescem 
 6. B (O texto destaca que o preço avançando mais rápido que os lucros cria riscos).
 7. B (Citado como método de investimento automático que gera confiança no longo prazo).
 
-8.
+8. Link Repositório notebooklm
 9. https://notebook.google.com/notebook/63a2b4e1-a962-4b3a-bcc7-69265a133175
     
