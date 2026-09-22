@@ -20,5 +20,5 @@ Perguntas para testar as respostas da IA
 
 Como a estratégia de longo prazo supera a mentira de ganhar dinheiro rapidamente?
 Quais são os principais pilares da metodologia de investimentos do Benjamim Graham? liste em tópicos.
-
+Como calcular o Valor Intrínseco?
 
