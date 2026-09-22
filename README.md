@@ -145,4 +145,5 @@ Ações de Crescimento (Growth Stocks)	Ações de empresas cujos lucros crescem 
 7. B (Citado como método de investimento automático que gera confiança no longo prazo).
 
 8.
-9. https://notebook.google.com/notebook/63a2b4e1-a962-4b3a-bcc7-69265a133175/preview
+9. https://notebook.google.com/notebook/63a2b4e1-a962-4b3a-bcc7-69265a133175
+    
